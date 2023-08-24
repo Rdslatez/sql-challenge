@@ -1,4 +1,4 @@
 # sql-challenge
-#Finished assignment
-#CSV folder for original data
-#Outputs for orderly outputs of the questions asked
+
+
+#Practuce in using SQL to group, select and do various tasks with database provided
